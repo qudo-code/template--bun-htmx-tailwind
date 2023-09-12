@@ -1,6 +1,8 @@
 # bun + htmx + tailwind
 
+
 To install dependencies:
+[Install bun](https://bun.sh/docs/installation)
 
 ```bash
 bun install
