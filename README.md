@@ -1,17 +1,21 @@
 # bun + htmx + tailwind
 
+## Getting Started 
+Install [Bun](https://bun.sh/docs/installation) if you don't already have it.
 
-To install dependencies:
-[Install bun](https://bun.sh/docs/installation)
-
+### Install Project
 ```bash
 bun install
 ```
 
-To run:
+### Run App
+```
+bun start
+```
 
-```bash
-bun run dev
+### Dev App
+```
+bun dev
 ```
 
 This project was created using `bun init` in bun v0.6.3. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
