@@ -1,0 +1,6 @@
+{
+    "watch": ["index.ts", "pages/"],
+    "ext": ".ts,.js,.html",
+    "ignore": [],
+    "exec": "bun index.ts"
+}
